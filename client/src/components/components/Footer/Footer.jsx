@@ -10,7 +10,7 @@ import {StyledFooter} from "./StyledFooter"
 const Footer = () => (
     <StyledFooter>
         <div className="footer-content">
-            <a href = "https://github.com/yashodeepchikte">
+            <a href = "https://github.com/asmar-shikhamirli/Watcher">
                 Made by Asmar and Artogrul
             </a>
         </div>
