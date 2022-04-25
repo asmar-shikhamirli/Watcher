@@ -42,7 +42,7 @@ Signin in with Google, Signin with Github have been tested in developement but h
   <hr />
 
 
-# Add Movies to WishList
+## Add Movies to WishList
  
 
 # Setup And Usage
