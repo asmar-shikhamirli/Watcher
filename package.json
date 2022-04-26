@@ -1,5 +1,5 @@
 {
-  "name": "keep-watching",
+  "name": "watcher",
   "version": "1.0.0",
   "description": "Movie recommendation and review app",
   "main": "server.js",
@@ -13,14 +13,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yashodeepchikte/Keep-Watching.git"
+    "url": "https://github.com/asmar-shikhamirli/Watcher"
   },
-  "author": "Yashodeep",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/yashodeepchikte/Keep-Watching/issues"
-  },
-  "homepage": "https://github.com/yashodeepchikte/Keep-Watching#readme",
+  "author": "Asmar",
   "dependencies": {
     "axios": "^0.19.2",
     "bcryptjs": "^2.4.3",
