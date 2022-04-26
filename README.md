@@ -7,7 +7,7 @@ This project uses SurpriseLib for dealing with Cosine similarity based nearest n
 For implimentation purpose dummy users are created using moviewlens 100K dataset. Each user has at least 20 movie ratings. 
 <hr />
 
-
+You can find the deployed version of the application from here: https://watcher-go.herokuapp.com/
 # Features
 
 Recommendations are based on similar users(UserBased Collaborative Filtering) and similar movies (itemBased colaborative filtering)
