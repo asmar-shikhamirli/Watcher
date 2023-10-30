@@ -77,11 +77,6 @@ you can login with your Google or GitHub account
 <li>
 you can Sign up using any valid email (dosent have to be a valid email)
 </li>
-<li>
-you can use this dummy user<br />
-email : shikhamirova.29@gmail.com <br />
-Password : salam123
-</li>
 </ul>
 ## To be done 
 <ul>
